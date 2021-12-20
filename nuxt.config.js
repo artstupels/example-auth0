@@ -1,6 +1,7 @@
 import 'dotenv/config'
 
 export default {
+  target: 'static',
   /*
   ** Headers of the page
   */
